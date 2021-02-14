@@ -52,3 +52,12 @@ This portion is civered from the following youtube [video](https://www.youtube.c
     * Close Function
     * File Object Attributes
     * Python Sequences
+* Part 03
+    * Python Lists
+    * List Operations
+    * Python Tuples
+    * Tuple Operations
+    * Python Strings
+    * Python Sets
+    * Set Operations
+
